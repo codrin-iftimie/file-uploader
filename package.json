@@ -1,0 +1,26 @@
+{
+  "name": "valums-file-uploader",
+  "version": "2.0.0",
+  "description": "version 2.0 Beta of Valum's File Uploader (v1) that incorporate some of the best bugfixes and patches to make a version compatible with the latest browsers in 2012. Transformed into a npm package",
+  "main": "client/fileuploader.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codrin-iftimie/file-uploader.git"
+  },
+  "keywords": [
+    "file",
+    "uploader"
+  ],
+  "author": "valums",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/codrin-iftimie/file-uploader/issues"
+  },
+  "homepage": "https://github.com/codrin-iftimie/file-uploader"
+}
