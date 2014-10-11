@@ -1,5 +1,5 @@
 {
-  "name": "valums-file-uploader",
+  "name": "file-uploader",
   "version": "2.0.0",
   "description": "version 2.0 Beta of Valum's File Uploader (v1) that incorporate some of the best bugfixes and patches to make a version compatible with the latest browsers in 2012. Transformed into a npm package",
   "main": "client/fileuploader.js",
